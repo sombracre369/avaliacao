@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.superior{
+    position: fixed;
+    height: 6vh;
+    width: 100vw;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: 1px solid red;
+    background-color: aliceblue;
+}
+
+.texto{
+    margin-top: 6vh;
+}
